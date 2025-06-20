@@ -72,7 +72,7 @@ In addition to cybersecurity and AI, I also explore creative web and frontend wo
 ## 💻 Skills & Tools
 
 **Languages:**  
-`Python` `Bash` `Markdown` `YAML`
+`Python` `Bash` `CSS` `JavaScript` `PHP` `C++` `MySQL` `Wordpress`
 
 **Cyber Tools:**  
 `Nmap` `Wireshark` `Burp Suite` `Hydra` `Nikto` `Metasploit` `dirb`
@@ -83,6 +83,9 @@ In addition to cybersecurity and AI, I also explore creative web and frontend wo
 **Systems:**  
 `Linux (Kali, Ubuntu)` `VirtualBox` `VMware` `UFW` `Apache`
 
+**Other Tools:**
+`VS Code` `Figma` `Canva` `Google Colab` `Microsoft SQL Server` `SSMS` `Microsoft 365 Office`
+
 ---
 
 ## 🧾 Certifications & Learning
@@ -90,15 +93,6 @@ In addition to cybersecurity and AI, I also explore creative web and frontend wo
 - 🎓 Google IT Support Fundamentals
 - 🏁 TryHackMe & VulnHub Challenges
 - 📚 Self-learning via YouTube + GitHub + Docs
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" width="400"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical" width="300"/>
-</p>
 
 ---
 
