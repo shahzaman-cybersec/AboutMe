@@ -61,7 +61,7 @@ In addition to cybersecurity and AI, I also explore creative web and frontend wo
 
 | 🚀 Project | 🔎 Description |
 |-----------|----------------|
-| [🔐 CTF Writeups](https://github.com/your-username/cybersec-lab-boxes) | Practical walkthroughs of VulnHub machines. Covers enumeration, exploitation, and post-exploitation. |
+| [🔐 CTF Writeups](https://github.com/shahzaman-cybersec/vulnhub-labs/tree/main) | Practical walkthroughs of VulnHub machines. Covers enumeration, exploitation, and post-exploitation. |
 | [🤖 AI Phishing Detector](https://github.com/your-username/AI-for-cybersecurity) | NLP-based classifier to detect phishing emails using Scikit-learn & Regex. |
 | [🧪 Port Scanner (Python)](https://github.com/your-username/ethical-hacking-tools) | A custom-built port scanner to analyze open services and vulnerabilities. |
 | [📊 Log Anomaly Detector](https://github.com/your-username/log-anomaly-detector) | Uses Isolation Forest on simulated server logs to identify anomalies. |
