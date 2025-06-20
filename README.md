@@ -100,15 +100,14 @@ In addition to cybersecurity and AI, I also explore creative web and frontend wo
 
 ## 📬 Let’s Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-username)
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-username)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-000?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/your-username)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shahzaman-tech)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-000?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/MrShah.X)
 [![Hack The Box](https://img.shields.io/badge/HackTheBox-000?style=for-the-badge&logo=hackthebox&logoColor=white)](https://app.hackthebox.com/users/your-username)
-[![Medium](https://img.shields.io/badge/Medium-000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@your-username)
-[![Kaggle](https://img.shields.io/badge/Kaggle-000?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/your-username)
+[![Medium](https://img.shields.io/badge/Medium-000?style=for-the-badge&logo=medium&logoColor=white)](http://medium.com/@shahzaman-cybersec)
+[![Kaggle](https://img.shields.io/badge/Kaggle-000?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/shahzaman12)
 [![Twitter](https://img.shields.io/badge/Twitter-000?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-handle)
-[![Gmail](https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@domain.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-portfolio-link.com)
+[![Gmail](https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shahzamankhan494@gmail.com)
+
 
 
 
